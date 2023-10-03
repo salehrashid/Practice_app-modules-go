@@ -2,3 +2,5 @@ github.com/salehrashid/go-modules v1.0.0 h1:7Y7YFYRh7dwVOhJLTVNaJqmXbEFyQt6dmxt2
 github.com/salehrashid/go-modules v1.0.0/go.mod h1:H7bU61LoxSs2DaoE4qhUD3iCnuAQnwUlZauZjcUMOrg=
 github.com/salehrashid/go-modules v1.0.1 h1:yjUIq+4BmBDeTN2nvYhRhzQZVW4YQIr1zGAqynxbqBs=
 github.com/salehrashid/go-modules v1.0.1/go.mod h1:H7bU61LoxSs2DaoE4qhUD3iCnuAQnwUlZauZjcUMOrg=
+github.com/salehrashid/go-modules/v2 v2.0.0 h1:CmvpSh9GgfYcenztkB7eBsvD0epz/as5MgiU8Dt38iA=
+github.com/salehrashid/go-modules/v2 v2.0.0/go.mod h1:yu67XIvUEAaS5R+lOkQVbvr+XbRfD9B8vB9H4BGbIlA=
